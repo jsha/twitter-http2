@@ -1,0 +1,14 @@
+{
+    "description": "Twitter API library that uses HTTP/2",
+    "engines": {
+        "node": ">=8.6.0"
+    },
+    "license": "MIT",
+    "main": "index.js",
+    "name": "twitter-http2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jsha/twitter-http2"
+    },
+    "version": "1.0.0"
+}
